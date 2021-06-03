@@ -1,2 +1,2 @@
-# ncbot
-NCBot For A Friend
+# NCBot
+NCBot for a friend, read the Wiki for more information!
